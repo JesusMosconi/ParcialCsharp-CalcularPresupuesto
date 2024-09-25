@@ -1,0 +1,10 @@
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\bin\Debug\ParcialC#.exe.config
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\bin\Debug\ParcialC#.exe
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\bin\Debug\ParcialC#.pdb
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.csproj.AssemblyReference.cache
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC_.Form1.resources
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC_.Properties.Resources.resources
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.csproj.GenerateResource.cache
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.csproj.CoreCompileInputs.cache
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.exe
+C:\Users\Equipo\Desktop\jesus\Programas\ParcialC#1\ParcialC#\obj\Debug\ParcialC#.pdb
