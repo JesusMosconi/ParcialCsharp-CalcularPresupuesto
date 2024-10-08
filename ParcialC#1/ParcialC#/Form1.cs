@@ -20,11 +20,17 @@ namespace ParcialC_
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            Calcular.ancho = Convert.ToInt32(txtAncho.Text);
-            Calcular.alto = Convert.ToInt32(txtAlto.Text);
 
-    
 
+            if (txtAncho.Text == "" || txtAlto.Text == "")
+            {
+                MessageBox.Show("ERROR: Ingrese algun valor");
+                
+            }
+            else
+            {
+                Calcular.ancho = Convert.ToInt32(txtAncho.Text);
+                Calcular.alto = Convert.ToInt32(txtAlto.Text);
                 if (txtProducto.Text == "Porton")
                 {
                     Calcular.Valor = 40000;  // SE MULTIPLICA POR 40 MIL COMO EJEMPLO
@@ -45,6 +51,9 @@ namespace ParcialC_
 
                 Calcular.CalcularPresupuestos(Calcular.ancho, Calcular.alto, Calcular.Valor);
                 txtPresupuesto.Text = "$ " + Convert.ToString(Calcular.total);
+            }
+
+               
 
             
 
@@ -55,6 +64,11 @@ namespace ParcialC_
         private void btnSeleccionar_Click(object sender, EventArgs e)
         {
             txtProducto.Text = comboBox1.Text;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
